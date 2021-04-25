@@ -1,0 +1,7 @@
+-Pagina de introduccion a proyectos en github
+-login logout
+-Banner principal mas bonito
+-Añadir video
+-Hacer las paginas internas
+-Links de "sobre nosotros" y su pagina interna extra correspondiente
+-Añadir algun efecto extra
